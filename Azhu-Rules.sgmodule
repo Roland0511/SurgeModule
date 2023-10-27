@@ -1,0 +1,6 @@
+#!name=Azhu-Rules
+#!desc=自用额外代理规则
+
+[Rule]
+RULE-SET, https://raw.githubusercontent.com/Roland0511/SurgeModule/main/Azhu-RuleSet.direct.list DIRECT
+RULE-SET, https://raw.githubusercontent.com/Roland0511/SurgeModule/main/Azhu-RuleSet.proxy Proxy
